@@ -1,0 +1,7 @@
+{
+  "name": "Frame to image",
+  "id": "811186428948090895",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
